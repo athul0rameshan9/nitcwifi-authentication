@@ -15,8 +15,8 @@ username_field = driver.find_element(By.NAME, "username")
 password_field = driver.find_element(By.NAME, "password")
 
 #the loop starts here
-name = "athul_b210880ee"#place your username here
-password = "b210880ee"#place your password here
+name = "athl_b**0**0**"#place your username here
+password = "******"#place your password here
 
 
 
